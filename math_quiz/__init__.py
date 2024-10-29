@@ -1,1 +1,1 @@
-"""Math Quiz Package."""
+"""My package for the math quiz."""
